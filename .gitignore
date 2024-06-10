@@ -7,3 +7,6 @@ dist/
 hotwire-data/raw_data/datajet.h5
 notes.*
 python-course-venv/
+course/tstools-dist/tstools-venv/
+course/tstools-dist/python-packaging-venv/
+test-install-venv/

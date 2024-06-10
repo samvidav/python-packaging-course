@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='tstools',
+setup(name='tstools-samvidav',
       version='0.1',
       description='A package to analyse timeseries',
       author='Samvida S. Venkatesh',
