@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tstools
+Version: 0.1
+Summary: A package to analyse timeseries
+Author: Samvida S. Venkatesh
+License: GPLv3
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
